@@ -1,0 +1,5 @@
+operation_id = refers to the function of the controller which is responsible for the business logic
+
+swagger project start
+swagger project edit
+swagger project start -m = mock mode
